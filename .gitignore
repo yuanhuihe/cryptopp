@@ -291,3 +291,4 @@ pip-log.txt
 
 # Dependency file
 *.d
+/.vs
